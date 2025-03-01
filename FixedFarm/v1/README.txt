@@ -21,3 +21,11 @@ That will be all, AFTER you have done this, you can continue with the actual gui
 4. Press F1, sit back and relax.
 
 2025/02/15
+
+
+
+
+- Fixed unique not being detected
+- Auto enable abilities
+
+2025/03/1
